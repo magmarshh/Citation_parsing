@@ -1,11 +1,12 @@
 # Citation_parsing
-Python tool that parses a Rmd File to count the number of times each citation is used. 
+Citation_parsing is a python tool that computes the number of times each citation is used in a given R Markdown File, useful in cutting down the number of citations in a manuscript to meet a journal's requirements. 
 
 
-
-
-
-
+## Requirements
+- python 3.7 
+- re module 
+- pandas module 
+- csv module
 
 
 
